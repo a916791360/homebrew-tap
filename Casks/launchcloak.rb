@@ -1,6 +1,6 @@
 cask "launchcloak" do
-  version "1.1.1"
-  sha256 "0dbf74c93c4e4fc22e7c44bfad8b77f26e1a401abc6e99ba937613c6c957eea9"
+  version "1.1.2"
+  sha256 "56a61f2f722799444252cc7337004bc480627ee1382268d742159e31aea873aa"
 
   url "https://github.com/a916791360/LaunchCloak/releases/download/v#{version}/LaunchCloak-v#{version}-macos.zip"
   name "LaunchCloak"
